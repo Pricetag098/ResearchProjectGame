@@ -59,3 +59,7 @@ sysinfo.txt
 crashlytics-build.properties
 
 RPGame/Temp/UnityLockfile
+RPGame/Library/PackageCache/
+RPGame/Library/ShaderCache/
+RPGame/Library/
+RPGame/Temp/
